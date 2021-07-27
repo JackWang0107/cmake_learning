@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/jack/project/cmake_learning/single_file/build",
+  "command": "/usr/bin/x86_64-linux-gnu-gcc-7   -g   -o CMakeFiles/single.output.dir/single.c.o   -c /home/jack/project/cmake_learning/single_file/single.c",
+  "file": "/home/jack/project/cmake_learning/single_file/single.c"
+}
+]

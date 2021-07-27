@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/multiple.output.dir/hello.c.o CMakeFiles/multiple.output.dir/main.c.o  -o multiple.output 

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/jack/project/cmake_learning/multiple_file/build",
+  "command": "/usr/bin/x86_64-linux-gnu-gcc-7   -g   -o CMakeFiles/multiple.output.dir/main.c.o   -c /home/jack/project/cmake_learning/multiple_file/main.c",
+  "file": "/home/jack/project/cmake_learning/multiple_file/main.c"
+},
+{
+  "directory": "/home/jack/project/cmake_learning/multiple_file/build",
+  "command": "/usr/bin/x86_64-linux-gnu-gcc-7   -g   -o CMakeFiles/multiple.output.dir/hello.c.o   -c /home/jack/project/cmake_learning/multiple_file/hello.c",
+  "file": "/home/jack/project/cmake_learning/multiple_file/hello.c"
+}
+]

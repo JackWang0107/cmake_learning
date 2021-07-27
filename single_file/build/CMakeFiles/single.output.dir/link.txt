@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-gcc-7 -g   CMakeFiles/single.output.dir/single.c.o  -o single.output 

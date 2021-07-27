@@ -1,0 +1,8 @@
+/home/jack/project/cmake_learning/multiple_folder_standard/build/CMakeFiles/rebuild_cache.dir
+/home/jack/project/cmake_learning/multiple_folder_standard/build/CMakeFiles/edit_cache.dir
+/home/jack/project/cmake_learning/multiple_folder_standard/build/lib/CMakeFiles/rebuild_cache.dir
+/home/jack/project/cmake_learning/multiple_folder_standard/build/lib/CMakeFiles/libs.dir
+/home/jack/project/cmake_learning/multiple_folder_standard/build/lib/CMakeFiles/edit_cache.dir
+/home/jack/project/cmake_learning/multiple_folder_standard/build/src/CMakeFiles/rebuild_cache.dir
+/home/jack/project/cmake_learning/multiple_folder_standard/build/src/CMakeFiles/main.output.dir
+/home/jack/project/cmake_learning/multiple_folder_standard/build/src/CMakeFiles/edit_cache.dir

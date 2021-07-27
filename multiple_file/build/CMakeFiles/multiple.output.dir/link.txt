@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-gcc-7 -g   CMakeFiles/multiple.output.dir/main.c.o CMakeFiles/multiple.output.dir/hello.c.o  -o multiple.output 
